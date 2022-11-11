@@ -4,7 +4,7 @@ Hi 👋 My name is Rodrigo
 Full Stack Developer
 --------------------
 
-Five years ago I got my first job as a software developer and never looked back... I have thorough experience developing and architecting backend-focused web applications. I'm currently working as a Senior Software Developer I and Team Leader in one of the fastest-growing software development companies in the Americas. Flexible, dedicated and curious by nature, I'm always looking for ways to improve my current skills to better understand and satisfy client needs.
+Five years ago I got my first job as a software developer and never looked back... I have thorough experience developing and architecting backend-focused web applications. I'm currently working as a Senior Software Developer I and Team Leader for one of the fastest-growing software development companies in the Americas. Flexible, dedicated and curious by nature, I'm always looking for ways to improve my current skills to better understand and satisfy client needs.
 
 * 🌍  I'm based in Montevideo, Uruguay
 * ✉️  You can contact me at [rodrigosannicolas@gmail.com](mailto:rodrigosannicolas@gmail.com)
