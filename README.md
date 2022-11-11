@@ -8,7 +8,7 @@ Five years ago I got my first job as a software developer and never looked back.
 
 * 🌍  I'm based in Montevideo, Uruguay
 * ✉️  You can contact me at [rodrigosannicolas@gmail.com](mailto:rodrigosannicolas@gmail.com)
-* 🚀  I'm currently working on [Moove-it](http://https://moove-it.com/)
+* 🚀  I'm currently working at [Moove-it](http://https://moove-it.com/)
 * 🧠  I'm learning pytorch, tensorflow and time series predictive analysis with R
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  BSc in Information Systems / Artificial Intelligence grad student
